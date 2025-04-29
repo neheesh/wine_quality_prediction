@@ -4,7 +4,7 @@
 Predicting the wine quality ratings based on various features using basic machine learning models. This project was primarily focused on learning python, ML libraries, exploratory data analysis and was not intended on achieving perfect predictions.
 
 ## Dataset
-- Source - [Wine Quality UCI](https://archive.ics.uci.edu/dataset/186/wine+quality) winequality-red.csv
+- Source - [Wine Quality UCI](https://archive.ics.uci.edu/dataset/186/wine+quality) (winequality-red.csv).
 - Samples - 1599 wines.
 - Features - 11 physicochemical tests.
 - Target - Integer rating of wine quality with a score between 3 and 8.
